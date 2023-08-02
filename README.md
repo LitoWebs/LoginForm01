@@ -1,1 +1,1 @@
-![Alt Text](https://github.com/LitoWebs/LoginForm01/blob/772ed0d8f237843922bd1fda037ad2345934f7fa/linkedin.png)
+https://github.com/LitoWebs/LoginForm01/blob/e641e1cf259d46ed7edb9770a29848fb70dcbda3/preview.png
